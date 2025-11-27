@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Happer Maverick's Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background-color: #4CAF50;
+            padding: 20px;
+            color: white;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #444;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Happer Maverick's Website!</h1>
+    </header>
+    <section>
+        <p>Hello! This is my personal space hosted on GitHub Pages.</p>
+        <p>Feel free to browse and learn more about me!</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Happer Maverick</p>
+    </footer>
+</body>
+</html>
